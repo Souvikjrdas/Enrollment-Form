@@ -1,0 +1,150 @@
+body{
+    margin: 0;
+}
+h5{
+    margin-bottom: 0rem;
+}
+#out-container{
+    width: 90%; 
+    margin-top: 20px;
+    border: 1.5px solid black;
+    border-width: 1.0px 1.5px 1.0px 1.5px;
+}
+#img1{
+    width: 100%;
+    max-height: 100px;
+}
+.tdi{
+    min-width: 25%;
+    text-align: center;
+    border: 1px solid rgb(97, 194, 41);
+}
+.t-data{
+    width: 75%;
+    border: 1px solid rgb(97, 194, 41);
+    /* margin-bottom: 0.1rem; */
+}
+#tdescr , #timg{
+    text-align: left;
+    color: white;
+    font-weight: 700;
+    background-color: rgb(97, 194, 41);
+    border: 1px solid rgb(97, 194, 41);
+    margin-bottom: 0rem;
+}
+#tdescr{
+    width: 75%;
+}
+#timg{
+    min-width: 25%;
+}
+.header{
+    text-align: center;
+    background-color: rgb(38, 199, 159);
+    color: white;
+    font-weight: 900;
+    margin-left: -12px;
+    margin-right: -12px;
+    padding: 4px 0 7px 0;
+}
+.row{
+    margin-left: -12px;
+    margin-right: -12px;
+}
+#right-sidebar{
+    max-height: 455px;
+    /* background-color: aquamarine; */
+    /* overflow-y: scroll; */
+}
+form{
+    width: 120%;
+    margin-top: 1.5rem;
+    margin-left: 2rem;
+    margin-right: 0px;
+    padding: 25px;
+}
+.form-check .form-check-input{
+    margin-left: -1.0rem;
+    margin-right: 0.5rem;
+}
+.input-text{
+    width: 70%;
+    box-sizing: border-box;
+    border-color: black;
+    border-style: groove;
+}
+#main-content{
+    border-top: 1.0px solid black;
+    border-bottom: 1.0px solid black;
+    min-height: 500px;
+}
+.skillsy{
+    margin-right: 1.5rem;
+}
+#submit1,#reset{
+    color: white;
+    font-weight: 700;
+    padding: 5px 15px 5px 15px;
+    margin-right: 14px;
+}
+#reset1{
+    padding: 5px 15px 5px 15px;
+    margin-right: 0px;
+}
+label{
+    font-size: medium;
+    font-weight: 400;
+}
+#ruler{
+    background-color: rgb(38, 199, 159);
+    min-height: 400px;
+    width: 2px;
+    margin-top: 40%;
+    margin-left: 110%;
+}
+#table1{
+    width: 90%;
+    max-height: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* tbody{
+
+} */
+
+.parag{
+    margin-bottom: -0.4rem;
+}
+.parag1{
+    margin-bottom: 0.5rem;
+    font-size: small;
+}
+.name{
+    font-size: larger;
+    font-weight: bold;
+}
+caption{
+    margin-bottom: 5%;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: larger;
+}
+.t-row{
+    opacity: 0;
+}
+#head{
+    position: sticky;
+    top: 20px;
+}
+.footer{
+    text-align: center;
+    background-color: rgb(38, 199, 159);
+    color: white;
+    height: 17px;
+    margin-left: -12px;
+    margin-right: -12px;
+    padding-top: 1px;
+    font-size: x-small;
+    font-weight: 900;
+}
